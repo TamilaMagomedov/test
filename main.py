@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd
 
+st.title("Tamila's first project in python")
+st.divider()
+st.link_button("insta", "https://www.instagram.com/tomatchka/?hl=fr")
 st.title("Amateur golf championship")
-
 st.divider()
 st.header("Results")
 
